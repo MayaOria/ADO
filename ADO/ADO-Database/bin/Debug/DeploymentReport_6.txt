@@ -1,0 +1,36 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[client] (Table)
+       [dbo].[client].[UK_client_email] (Index)
+       [dbo].[representation] (Table)
+       [dbo].[Spectacle] (Table)
+       [dbo].[Spectacle].[UK_Spectacle_nom] (Index)
+       [dbo].[ticket] (Table)
+       [dbo].[Type] (Table)
+       [dbo].[Type].[UK_Type_nom] (Index)
+       Default Constraint: unnamed constraint on [dbo].[ticket] (Default Constraint)
+       [dbo].[FK_representation_spectacle] (Foreign Key)
+       [dbo].[FK_ticket_client] (Foreign Key)
+       [dbo].[FK_ticket_representation] (Foreign Key)
+       [dbo].[FK_ticket_type] (Foreign Key)
+       [dbo].[CK_client_nom] (Check Constraint)
+       [dbo].[CK_client_prenom] (Check Constraint)
+       [dbo].[CK_Representation_date] (Check Constraint)
+       [dbo].[CK_Spectacle_nom] (Check Constraint)
+       [dbo].[CK_Type_prix] (Check Constraint)
+       [dbo].[representationDetails] (View)
+       [dbo].[SP_ClientAdd] (Procedure)
+       [dbo].[SP_ClientCheck] (Procedure)
+       [dbo].[SP_SpectacleAdd] (Procedure)
+
+** Supporting actions

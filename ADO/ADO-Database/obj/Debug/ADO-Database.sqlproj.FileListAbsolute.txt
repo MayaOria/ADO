@@ -1,0 +1,6 @@
+C:\Users\m.orianne\source\repos\ADO\ADO-Database\bin\Debug\ADO-Database.dacpac
+C:\Users\m.orianne\source\repos\ADO\ADO-Database\obj\Debug\ADO-Database.sqlproj.AssemblyReference.cache
+C:\Users\m.orianne\source\repos\ADO\ADO-Database\obj\Debug\ADO_Database.dll
+C:\Users\m.orianne\source\repos\ADO\ADO-Database\obj\Debug\ADO_Database.pdb
+C:\Users\m.orianne\source\repos\ADO\ADO-Database\bin\Debug\ADO_Database.dll
+C:\Users\m.orianne\source\repos\ADO\ADO-Database\bin\Debug\ADO_Database.pdb

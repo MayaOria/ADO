@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="dad0af4c-90f3-46e0-b70d-6dc840c3bd83" ChangeDateTime="11/28/2022 09:15:08">
+    <Property Name="ElementName" Value="[dbo].[Spectacle].[IX_Spectacle_nom]" />
+    <Property Name="ElementType" Value="SqlIndex" />
+    <Property Name="ParentElementName" Value="[dbo].[Spectacle]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[UK_Spectacle_nom]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c4fe6ea9-6bd7-476a-bb79-70f2c8a2f558" ChangeDateTime="11/28/2022 10:45:33">
+    <Property Name="ElementName" Value="[dbo].[client].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[client]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdClient" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="f32f1a57-9976-43b1-b9db-5ed46481e2ba" ChangeDateTime="11/28/2022 10:59:38">
+    <Property Name="ElementName" Value="[dbo].[ticket].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ticket]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdTicket" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3fd4b6da-569a-4ed9-a4e1-de9f06928304" ChangeDateTime="11/28/2022 11:01:52">
+    <Property Name="ElementName" Value="[dbo].[Type].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Type]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdType" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="09f4090a-22fa-40f7-a3a9-b12a4f938c88" ChangeDateTime="11/28/2022 11:06:50">
+    <Property Name="ElementName" Value="[dbo].[FK_ticket_ToTable]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[ticket]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_ticket_type]" />
+  </Operation>
+</Operations>
