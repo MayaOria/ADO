@@ -1,0 +1,16 @@
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\bin\Debug\net5.0\UnitTest-Exemple.exe
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\bin\Debug\net5.0\UnitTest-Exemple.deps.json
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\bin\Debug\net5.0\UnitTest-Exemple.runtimeconfig.json
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\bin\Debug\net5.0\UnitTest-Exemple.runtimeconfig.dev.json
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\bin\Debug\net5.0\UnitTest-Exemple.dll
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\bin\Debug\net5.0\ref\UnitTest-Exemple.dll
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\bin\Debug\net5.0\UnitTest-Exemple.pdb
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.csproj.AssemblyReference.cache
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.AssemblyInfoInputs.cache
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.AssemblyInfo.cs
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.csproj.CoreCompileInputs.cache
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.dll
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\ref\UnitTest-Exemple.dll
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.pdb
+C:\Users\m.orianne\source\repos\UnitTest-Exemple\UnitTest-Exemple\obj\Debug\net5.0\UnitTest-Exemple.genruntimeconfig.cache

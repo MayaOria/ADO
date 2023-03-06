@@ -1,0 +1,5 @@
+C:\Users\m.orianne\source\repos\SustainBXL\SustainBXL-Database\bin\Debug\SustainBXL-Database.dacpac
+C:\Users\m.orianne\source\repos\SustainBXL\SustainBXL-Database\bin\Debug\SustainBXL_Database.dll
+C:\Users\m.orianne\source\repos\SustainBXL\SustainBXL-Database\bin\Debug\SustainBXL_Database.pdb
+C:\Users\m.orianne\source\repos\SustainBXL\SustainBXL-Database\obj\Debug\SustainBXL_Database.dll
+C:\Users\m.orianne\source\repos\SustainBXL\SustainBXL-Database\obj\Debug\SustainBXL_Database.pdb

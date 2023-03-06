@@ -1,0 +1,30 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Adresse] (Table)
+       [dbo].[CodePostal] (Table)
+       [dbo].[Service] (Table)
+       [dbo].[ServiceClient] (Table)
+       [dbo].[TypeClient] (Table)
+       [dbo].[TypeService] (Table)
+       [dbo].[FK_Adresse_CodePostal] (Foreign Key)
+       [dbo].[FK_Service_Adresse] (Foreign Key)
+       [dbo].[FK_Service_TypeClient] (Foreign Key)
+       [dbo].[FK_ServiceClient_Service] (Foreign Key)
+       [dbo].[FK_ServiceClient_TypeClient] (Foreign Key)
+       [dbo].[CK_CodePostal_code] (Check Constraint)
+       [dbo].[CK_Service_email] (Check Constraint)
+       [dbo].[CK_Service_telephone] (Check Constraint)
+       [dbo].[SP_AdresseAdd] (Procedure)
+       [dbo].[SP_CodePostalAdd] (Procedure)
+
+** Supporting actions

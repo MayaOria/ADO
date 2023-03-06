@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="c9c423e0-8935-4bd4-b788-55c8c3495ea6" ChangeDateTime="03/06/2023 13:13:49">
+    <Property Name="ElementName" Value="[dbo].[TypeClient].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TypeClient]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdTypeClient" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="6f5cc88d-ec01-45fe-84a4-8ec1c08a0f5d" ChangeDateTime="03/06/2023 13:18:52">
+    <Property Name="ElementName" Value="[dbo].[PK_TypeClient_Column]" />
+    <Property Name="ElementType" Value="SqlCheckConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[TypeClient]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[PK_TypeClient PRIMARY KEY]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="7996bb99-b7b6-4c0c-897a-2bc9f05448e6" ChangeDateTime="03/06/2023 13:25:08">
+    <Property Name="ElementName" Value="[dbo].[TypeService].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[TypeService]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdTypeService" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="555d81b3-d9e7-42c0-95e1-22396651c3f7" ChangeDateTime="03/06/2023 13:26:05">
+    <Property Name="ElementName" Value="[dbo].[PK_TypeService([IdTypeService]])]" />
+    <Property Name="ElementType" Value="SqlPrimaryKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[TypeService]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[PK_TypeService ([IdTypeService]])]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="fd48434b-6a2c-44cc-badd-4f1c5ee08aa8" ChangeDateTime="03/06/2023 13:26:16">
+    <Property Name="ElementName" Value="[dbo].[PK_TypeService ([IdTypeService]])]" />
+    <Property Name="ElementType" Value="SqlPrimaryKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[TypeService]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[PK_TypeService]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3c6279f0-b9e2-4006-ae4d-338a5018e37b" ChangeDateTime="03/06/2023 13:28:24">
+    <Property Name="ElementName" Value="[dbo].[CodePostal].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[CodePostal]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdCodePostal" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="bc5e2f8e-c761-44d5-8658-9d1a21d0e4b2" ChangeDateTime="03/06/2023 13:29:24">
+    <Property Name="ElementName" Value="[dbo].[CodePostal].[localite]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[CodePostal]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="code" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="b3ad89f5-57dd-499d-8a97-3acdd2eca083" ChangeDateTime="03/06/2023 13:37:47">
+    <Property Name="ElementName" Value="[dbo].[Adresse].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Adresse]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdAdresse" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c031cab5-8838-41d7-a699-c997c0e5540d" ChangeDateTime="03/06/2023 13:47:00">
+    <Property Name="ElementName" Value="[dbo].[Service].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[Service]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdService" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="e299ad36-7e09-454f-9cd6-cf649491ac8c" ChangeDateTime="03/06/2023 14:11:50">
+    <Property Name="ElementName" Value="[dbo].[ServiceClient].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[ServiceClient]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="IdService" />
+  </Operation>
+</Operations>
